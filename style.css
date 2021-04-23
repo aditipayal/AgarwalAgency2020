@@ -1,0 +1,53 @@
+/*--------Section Part -------------*/
+#home{
+    height: 700px;
+    background: pink;
+    display: inline-block;;
+  background-image:url(images/logo\ \(3\).jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+}
+#home h2{
+    color: gold;
+}
+#home h4{
+    color:brown;
+}
+  #about_us{
+    margin: 0px;
+    height: 700px;
+    background: yellow;
+    display: inline-block;;
+    width: 100%;
+  }
+  #products{
+    height: 700px;
+    background: crimson;
+    display: inline-block;;
+    width: 100%;
+    margin: 0px;
+  }
+  #contact_us{
+    margin: 0px;
+    height: 700px;
+    background: salmon;
+    display: inline-block;;
+    width: 100%;
+  }
+  .col-sm{
+      margin: auto;
+      padding:auto;
+  }
+  .col-sm img{
+      width: 400px;
+      height: 350px;
+      
+  }
+  .media img{
+      margin: auto;
+      padding: auto;
+      width: 700px;
+      height: 697px;
+  }
